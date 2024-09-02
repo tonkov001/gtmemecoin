@@ -1,2 +1,2 @@
-# gtmemecoin
+# gnmemecoin
 gtmem
